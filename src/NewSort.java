@@ -46,5 +46,6 @@ public static void main(String[] args) {
     ob.sort(arr);
     System.out.println("Sorted array");
     ob.print(arr);
+    
 }
 }
